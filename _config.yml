@@ -7,11 +7,11 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-  media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
+  media_folder: "assets/img" # Media files will be stored in the repo under images/uploads
   layout: blog
 title: "Let's Party"
 date: 1999-12-31 11:59:59 -0800
-thumbnail: "/images/prince.jpg"
+thumbnail: "assets/img/"
 rating: 5
 ---
 
